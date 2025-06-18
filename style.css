@@ -1,7 +1,10 @@
-title{
+.title{
     color: rgb(170, 79, 94);
-    height: 10px;
+    height: 50px;
 }
-photo{
-    height: 10px;
+.photo{
+    display: flex;
+    height: 5%;
+    width: 5%;
+    padding: 10px 10px;
 }
